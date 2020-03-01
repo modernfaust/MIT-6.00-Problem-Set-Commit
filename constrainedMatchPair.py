@@ -1,3 +1,5 @@
+#Problem Set 3
+#An exercise in Python string manipulation
 #constrainedMatchPair
 from string import *
 def subStringMatchExact(target,key):
