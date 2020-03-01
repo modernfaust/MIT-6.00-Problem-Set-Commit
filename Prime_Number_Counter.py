@@ -1,3 +1,5 @@
+#Problem Set 1
+#A program that generates the 1000th prime number, following the generate and test method
 from math import *
 
 #-This is to count primes up to the 1000th prime
