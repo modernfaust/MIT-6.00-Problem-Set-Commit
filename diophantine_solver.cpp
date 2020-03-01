@@ -1,5 +1,5 @@
-// Mcnuggets cpp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Problem Set 2
+//An exercise in finding solutions to contrained polynomial equations via exhaustive search
 
 #include <iostream>
 #include <vector>
